@@ -1,5 +1,5 @@
 
-# JOBS GONJO
+# TalentHub
 
 A brief instructions so that we can run this project on a local machine.
 

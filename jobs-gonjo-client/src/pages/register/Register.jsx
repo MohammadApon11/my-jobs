@@ -266,7 +266,7 @@ const Register = () => {
         }}
       >
         <Typography sx={{ mt: 3 }} component="h1" variant="h3">
-          Register to jobs Gonjo
+          Register to TalentHub
         </Typography>
         <Typography sx={{ mt: 8 }} component="h1" variant="h5">
           Log in with Email

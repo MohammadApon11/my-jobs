@@ -156,7 +156,7 @@ const AllJobs = () => {
               )
             ) : (
               <Typography>
-                Need to reload becouse jobs gonjo server deploy on vercel and
+                Need to reload becouse TalentHub server deploy on vercel and
                 vercel somtimes sending response to late or wait few seconds...
               </Typography>
             )}

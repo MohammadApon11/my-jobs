@@ -59,7 +59,7 @@ const Dashboard = () => {
             </IconButton>
             <Box>
               <Typography sx={{ fontWeight: "800", fontSize: "20px" }}>
-                Jobs Gonjo
+                TalentHub
               </Typography>
               <Typography sx={{ fontSize: "14px" }}>
                 Shaping Tomorrows Cybersecurity

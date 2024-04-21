@@ -225,7 +225,7 @@ const Login = () => {
           }}
         >
           <Typography sx={{ mt: 3 }} component="h1" variant="h3">
-            Login to jobs Gonjo
+            Login to TalentHub
           </Typography>
           <Typography sx={{ mt: 8 }} component="h1" variant="h5">
             Log in with Email
