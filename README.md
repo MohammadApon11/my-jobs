@@ -9,7 +9,7 @@ A brief instructions so that we can run this project on a local machine.
 Explore career opportunities seamlessly with our user-friendly job portal website. Connect employers with skilled professionals, offering a diverse range of job listings. Simplify your job search or talent acquisition process with intuitive features, creating a bridge between talent and opportunities.
 ## Demo
 Live Site:
-https://jobs-portal-swx6.vercel.app/
+https://talent-hub-snowy.vercel.app/
 ## Features
 
 - Create account as a Recruiter
