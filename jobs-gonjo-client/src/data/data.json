@@ -1,0 +1,30 @@
+[
+  {
+    "categoryName": "Sales & Marketing",
+    "availableLocations": ["Bangladesh", "India"]
+  },
+  {
+    "categoryName": "Digital Marketing",
+    "availableLocations": ["Bangladesh", "India"]
+  },
+  {
+    "categoryName": "Management",
+    "availableLocations": ["Bangladesh", "India"]
+  },
+  {
+    "categoryName": "Development",
+    "availableLocations": ["Bangladesh", "India"]
+  },
+  {
+    "categoryName": "Engineering",
+    "availableLocations": ["Bangladesh", "India"]
+  },
+  {
+    "categoryName": "HR & Administration",
+    "availableLocations": ["Bangladesh"]
+  },
+  {
+    "categoryName": "Creative",
+    "availableLocations": ["India"]
+  }
+]
